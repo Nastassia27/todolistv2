@@ -9,7 +9,7 @@ function App() {
     const todolostNameItem_1: string='Hello';
     const todolostNameItem_2: string ='Goodbuy';
     const tasks_1: Array<taskType>=[
-        {id:1, isDone: true, name: 'Bread'},
+        {id:1, isDone: true, name: 'Butter'},
         {id:2, isDone: false, name: 'Milk'},
         {id:3, isDone: false, name: 'Eggs'},
         {id:4, isDone: true, name: 'Kitkat'}
